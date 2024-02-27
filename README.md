@@ -9,9 +9,12 @@ This tool enables setting/deleting/clearing keys on your web server with ease, m
 
 1. Place this file into your Comp28112/ex1/ repo (the same location as im.py).
 2. Run `pip install PyQt6` in your python environment.
-3. Add your uni server URL to the `URL = ` constant at the top of the `server_helper.py` file.
+3. Add your web server URL to the `URL = ` constant at the top of the `server_helper.py` file.
 4. Run the server helper with `python3 server_helper.py`.
 
 
 # IMPORTANT NOTES:
-- please ensure you are using university wifi to access your cs web server.
+- If you are using the university's web server, please ensure you are on eduroam wifi (on campus)
+- If you are using your own server simply just change your URL in the code
+
+
