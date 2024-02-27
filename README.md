@@ -1,6 +1,9 @@
 # Are you sick of refreshing the uni web server for it not to update?
 
 This tool will allows setting/updating/deleting keys on your uni server with ease, making developing lab 1 really straightforward.
+# Features
+- GUI driven Key setting, deleting and clearing.
+- Auto-updated feed of key-pair values on your server
 
 # Installation Instructions
 
