@@ -5,9 +5,10 @@ This tool will allows setting/updating/deleting keys on your uni server with eas
 # Installation Instructions
 
 1. Place this file into your Comp28112/ex1/ repo (the same location as im.py).
-2. run `pip install PyQt6` in your python environment.
-3. then simply run the server helper with `python3 server_helper.py`.
-4. Add your uni server URL to the `URL = ` constant.
+2. Run `pip install PyQt6` in your python environment.
+3. Add your uni server URL to the `URL = ` constant.
+4. Run the server helper with `python3 server_helper.py`.
+
 
 # IMPORTANT NOTES:
 - please ensure you are using university wifi to access your cs web server.
